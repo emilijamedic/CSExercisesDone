@@ -24,3 +24,5 @@ Answer: Its main advantage is its specialization in penetration testing, providi
 3. Which features or tools of Kali Linux do you find most useful?
 
 Answer: I value the practical usability of Kali Linux and its tools. For example, I encountered difficulties installing and configuring Ookla Speedtest, which led me to explore alternative solutions. I was able to use iftop to monitor network traffic, although I recognize that it does not provide exactly the same functionality as Speedtest. This experience highlighted the importance of accessible tools and straightforward configuration.
+
+UPDATE: Installed speedtest-cli from ookla sucessfully
