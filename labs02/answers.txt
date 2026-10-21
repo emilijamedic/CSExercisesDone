@@ -1,0 +1,6 @@
+A brief description of how the victim would recognize that it is a phishing page generated?
+
+
+ - checking for an unusual URL, such as an unfamiliar IP address or domain, instead of the website’s official address
+
+- unexpected requests for login credentials and the absence of a valid https connection
