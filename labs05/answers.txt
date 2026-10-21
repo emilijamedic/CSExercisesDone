@@ -1,0 +1,12 @@
+Why doesn't GPG detect MITM attacks automatically?
+gpg relies on users verifying the key’s identity / anyone can provide a fake public key
+
+What is a fingerprint and why is it important?
+unique sequence of characters calculated from public key - used for verification
+
+Why is email not a secure channel for exchanging keys?
+phising? they can be intercepted, compromised or modified, it could be spam as well
+
+
+How does the Web of Trust reduce the risk of MITM attacks?
+it allows users to verify and sign other people's public keys after checking their identities - additional layer of verification/protection

@@ -1,0 +1,13 @@
+Difference between encryption and signing
+encryption - only someone with decryption key can read it
+signing - verifies sender's identity and checks whether data has been changed since it was signed
+
+Role of public and private key
+public key can be shared with others, it's encrypts data or verifies signature
+private key for creation of digital signatures, must be kept secret
+
+
+
+What happens when an encrypted file is modified
+
+the changes may corrupt the ciphertext so decryption might fail
