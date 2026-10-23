@@ -1,0 +1,12 @@
+Short comment: why using weak passwords is dangerous and why closing unused ports
+ - easily cracked or guessed
+
+How would you protect the SSH server from brute-force attacks?
+- strong, unique passwords or, preferably, SSH public-key authentication, disable direct root login, regular updates
+
+What additional measures (e.g. limits on the number of logins, use of public-private keys, firewall) would you recommend?
+- mfa and all of the above
+How does the result change if we use a very strong password?
+- brute-force attacks are nearly impossible
+
+note: we used kali Linux vm to attack metasploitable as assignement1 in classes
